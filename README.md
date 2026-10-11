@@ -195,3 +195,7 @@ npm run dev
 6. `attendance_sessions` — Active and past lecture sessions, unique QR tokens, duration, status.
 7. `attendance_records` — Verified lecture attendances with unique constraint on `(session_id, student_id)` to prevent duplicates.
 8. `face_profiles` — Biometric 128-D descriptor vectors, informed consent logs, and status.
+=======
+# Smart_Attendance_Management_System
+Smart Attendance Management System:  QR Code/Face Recognition Student Attendance Reports Faculty Dashboard
+
